@@ -1,0 +1,1 @@
+Rest service to get all persons detail.
